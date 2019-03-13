@@ -1,2 +1,2 @@
-# gists
-Because organizations deserve gists
+# Gists
+One dev's repository is another dev's gists
